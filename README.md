@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Jeff</h1>
+<h1 align="center">Hi there👋, I'm Jeff</h1>
 <h3 align="center">A passionate junior frontend developer from Taiwan</h3>
 
 - 🌱 I’m currently learning **JavaScript**
