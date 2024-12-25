@@ -1,7 +1,5 @@
 <h1 align="left">Hi there👋, I'm Jeff</h1>
-<h3 align="left">A passionate frontend developer from Taiwan who enjoys building modern web applications ✨/h3>
-  
-![champion](https://i.imgur.com/b6IlP1m.jpeg)
+<h3 align="left">A passionate frontend developer from Taiwan who enjoys building modern web applications ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeff0518&label=Profile%20views&color=0e75b6&style=flat" alt="kellychi22" /> </p>
 
